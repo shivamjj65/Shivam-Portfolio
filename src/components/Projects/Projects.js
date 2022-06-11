@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="Personal portfolio website developed using ReactJs."
-              link="https://ieeexplore.ieee.org/document/9716292"
+              link="https://shivamjj65.vercel.app"
             />
           </Col>
 
