@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Shivam Ilasariya (Patel) </span>
             from <span className="purple"> Mumbai, India.</span>
-            <br />I pursued Bachelor of Engineering in Information Technology from RGIT,Mumbai.
+            <br />I pursued Bachelor of Engineering in Information Technology from RGIT, Mumbai.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

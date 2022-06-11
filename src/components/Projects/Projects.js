@@ -14,7 +14,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My<strong className="purple">Work </strong>
+          My<strong className="orange">Work </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on.
@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="Personal portfolio website developed using ReactJs."
-              link="https://shivamjj65.vercel.app"
+              link="https://ieeexplore.ieee.org/document/9716292"
             />
           </Col>
 
