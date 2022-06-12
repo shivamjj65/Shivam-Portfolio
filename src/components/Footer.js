@@ -5,6 +5,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
+import{ SiHackerrank } from "react-icons/si";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
@@ -25,22 +26,32 @@ function Footer() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/3_guna_lagaan_"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.linkedin.com/in/shivamjj65/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.hackerrank.com/shivamjj65/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <SiHackerrank />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://twitter.com/3_guna_lagaan_"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineTwitter />
                 </a>
               </li>
               <li className="social-icons">
