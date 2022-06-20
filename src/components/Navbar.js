@@ -75,7 +75,8 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}>
                 <IoNewspaperOutline style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
-            </Nav.Item>  */        
+            </Nav.Item>  */    
+
           </Nav>
         </Navbar.Collapse>
       </Container>
