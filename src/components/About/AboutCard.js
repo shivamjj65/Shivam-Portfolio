@@ -13,14 +13,14 @@ function AboutCard() {
             <br />I pursued Bachelor of Engineering in Information Technology from RGIT, Mumbai.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I like to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games, Watching Movies
+              <ImPointRight /> Capturing Photos
             </li>
             <li className="about-activity">
-              <ImPointRight /> Mobile Photography
+              <ImPointRight /> Playing Games, Watching Movies
             </li>
             <li className="about-activity">
               <ImPointRight /> Image and Video Editing
